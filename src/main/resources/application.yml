@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-data-rest-tesst
+
+server:
+  port: 8080
+    
+spring-data-rest-test:
+  config:
+    greetings: Hola Mundo!!!
